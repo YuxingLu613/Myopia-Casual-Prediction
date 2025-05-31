@@ -2,7 +2,7 @@
 
 <p>
     <a href="https://github.com/YuxingLu613/Myopia-Casual-Prediction/stargazers"><img src="https://img.shields.io/github/stars/YuxingLu613/Myopia-Casual-Prediction" alt="GitHub stars"></a>
-    <a href="https://github.com/YuxingLu613/Myopia-Casual-Prediction/network/members"><img src="https://img.shields.io/github/forks/YuxingLu613/Myopia-Casual-Prediction" alt="GitHub forks"></a>
+<!--     <a href="https://github.com/YuxingLu613/Myopia-Casual-Prediction/network/members"><img src="https://img.shields.io/github/forks/YuxingLu613/Myopia-Casual-Prediction" alt="GitHub forks"></a> -->
     <a href="https://github.com/YuxingLu613/Myopia-Casual-Prediction/issues"><img src="https://img.shields.io/github/issues/YuxingLu613/Myopia-Casual-Prediction" alt="GitHub issues"></a>
     <a href="https://github.com/YuxingLu613/Myopia-Casual-Prediction/commits/main"><img src="https://img.shields.io/github/last-commit/YuxingLu613/Myopia-Casual-Prediction" alt="GitHub last commit"></a>
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python Version"></a>
