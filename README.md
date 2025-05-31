@@ -8,7 +8,7 @@
 </p>
 <p>
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python Version"></a>
-    <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a>
+<!--     <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a> -->
     <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License: Apache 2.0"></a>
 <!--     <a href="https://doi.org/10.5281/zenodo.1234567"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg" alt="DOI"></a> -->
 </p>
