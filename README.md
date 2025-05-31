@@ -5,8 +5,6 @@
     <a href="https://github.com/YuxingLu613/Myopia-Casual-Prediction/network/members"><img src="https://img.shields.io/github/forks/YuxingLu613/Myopia-Casual-Prediction" alt="GitHub forks"></a>
     <a href="https://github.com/YuxingLu613/Myopia-Casual-Prediction/issues"><img src="https://img.shields.io/github/issues/YuxingLu613/Myopia-Casual-Prediction" alt="GitHub issues"></a>
     <a href="https://github.com/YuxingLu613/Myopia-Casual-Prediction/commits/main"><img src="https://img.shields.io/github/last-commit/YuxingLu613/Myopia-Casual-Prediction" alt="GitHub last commit"></a>
-</p>
-<p>
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python Version"></a>
 <!--     <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a> -->
     <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License: Apache 2.0"></a>
